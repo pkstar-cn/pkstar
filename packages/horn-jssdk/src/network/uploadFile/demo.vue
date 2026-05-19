@@ -67,7 +67,7 @@
   const horActionsSheetRef = ref<HorActionSheetInstance>()
   const objForm = reactive<Record<string, any>>({
     url: {
-      value: 'https://epms-app.autostreets.com/certificateBosOrder/imageFileUpload',
+      value: 'https://www.pkstar.com/certificateBosOrder/imageFileUpload',
       is: shallowRef(HorField),
       placehorlder: '请输入上传地址',
       required: true,

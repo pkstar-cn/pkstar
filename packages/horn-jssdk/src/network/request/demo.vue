@@ -61,7 +61,7 @@
 
   const objForm = reactive({
     url: {
-      value: 'https://vas-wap.autostreets.com/evaluate/fastValuation?t=1668577260371&orderId=73469',
+      value: 'https://www.pkstar.com/evaluate/fastValuation?t=1668577260371&orderId=73469',
       is: shallowRef(HorField),
       clearable: true,
       required: true,
